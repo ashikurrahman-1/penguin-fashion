@@ -1,0 +1,20 @@
+/* Custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@200;400;700&display=swap');
+
+/* 
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
+header{
+    background: url(../media/img/herobg.png) no-repeat top;
+}
+
+.hero h1{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+}
+
+.p-card, .about-card, .form-left{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
